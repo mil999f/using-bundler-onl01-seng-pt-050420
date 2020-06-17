@@ -1,4 +1,5 @@
 bundrequire_relative '../config/environment'
+
 Hashie
 Sinatra
 Octokit
